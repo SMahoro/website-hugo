@@ -144,3 +144,59 @@
   interests: Workshopgestaltung, Diversitythemen, Mentoring
   background: Wirtschaftsingenieurwesen (2. Mastersemester), 3-jährige Arbeit als Jugendwärtin im Sportverein
   story:
+
+- name: Abby
+  imagePath:
+  tasks: PR, Orga und Gestaltung
+  interests:
+  background: Medieninformatik (Bachelor), Fremdsprachen-korrespondentin
+  story:
+
+- name: Darlyn
+  imagePath:
+  tasks: Organisation & Koordination, Programmieren, PR
+  interests:
+  background: Angewandte Informatik (Bachelor), abgeschlossene Ausbildung zur Veranstaltungskauffrau
+  story:
+
+- name: David
+  imagePath:
+  tasks: Mentoring, Finanzierung, Projekt- und Eventmanagement
+  interests:
+  background: B.Sc. Wirtschaftsinformatik; Erfahrung als Förderlehrer; Kentnisse in Webentwicklung, Finanzen, IT-Sicherheit uvm.
+  story:
+
+- name: Marlón
+  imagePath:
+  tasks: Webseite, Programmieren, Co-Creation Workshops
+  interests: UX/UI Design, System Thinking, Design Thinking, Co-Creation, Web/App Design
+  background: M.A. System Design (Partizipatives Design, UI & UX Design, HCI), Prototyping
+  story:
+
+- name: Sergen
+  imagePath:
+  tasks: Mentoring, Webdesign, Social Media
+  interests: Design, Social Media, Mentoring und Programmieren
+  background: Wirtschaftsinformatik (Bachelor)
+  story:
+
+- name: Stefan
+  imagePath:
+  tasks: Programmieren, Mentoring
+  interests:
+  background: Studiert Angewandte Informatik
+  story:
+
+- name: Steffie
+  imagePath:
+  tasks: Mentoring, Workshop-Planung
+  interests:
+  background: Grafikdesign, Kommunikationsmethoden und -techniken, Präsentation
+  story:
+
+- name: Timo
+  imagePath:
+  tasks: Mentoring
+  interests: Arbeit mit Kindern, Mentoring, Erfahrungen sammeln in jeglichen Bereichen
+  background: Studiert Angewandte Informatik (Bachelor)
+  story: Es ist nie zu spät für den ersten Schritt.
