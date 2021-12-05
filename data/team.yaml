@@ -134,15 +134,15 @@
 - name: Vedat
   imagePath: vedat.jpg
   tasks: Social Media, PR, Organisation
-  interests: Design, Social Media, Organisation
-  background: Wirtschaftsingenieurwesen (2. Mastersemester), Erfahrung in Planung, Organisation, Teamführung, Kommunikation
+  interests: Thaiboxen, Lesen, Reisen, Digitalisierung, Weiterentwicklung
+  background: Wirtschaftsingenieurwesen (Master), Erfahrung in Planung, Organisation, Teamführung, Kommunikation
   story:
 
 - name: Sahra
   imagePath: sahra.jpg
   tasks: Workshopgestaltung, Mentoring
   interests: Workshopgestaltung, Diversitythemen, Mentoring
-  background: Wirtschaftsingenieurwesen (2. Mastersemester), 3-jährige Arbeit als Jugendwärtin im Sportverein
+  background: Wirtschaftsingenieurwesen (Master), 3-jährige Arbeit als Jugendwärtin im Sportverein
   story:
 
 - name: Abby
@@ -153,21 +153,21 @@
   story:
 
 - name: Darlyn
-  imagePath:
+  imagePath: darlyn.jpg
   tasks: Organisation & Koordination, Programmieren, PR
   interests:
   background: Angewandte Informatik (Bachelor), abgeschlossene Ausbildung zur Veranstaltungskauffrau
   story:
 
 - name: David
-  imagePath:
-  tasks: Mentoring, Finanzierung, Projekt- und Eventmanagement
+  imagePath: david.jpg
+  tasks: Mentoring, Finanzierung, Eventmanagement
   interests:
   background: B.Sc. Wirtschaftsinformatik; Erfahrung als Förderlehrer; Kentnisse in Webentwicklung, Finanzen, IT-Sicherheit uvm.
   story:
 
 - name: Marlón
-  imagePath:
+  imagePath: marlon.jpg
   tasks: Webseite, Programmieren, Co-Creation Workshops
   interests: UX/UI Design, System Thinking, Design Thinking, Co-Creation, Web/App Design
   background: M.A. System Design (Partizipatives Design, UI & UX Design, HCI), Prototyping
@@ -188,14 +188,14 @@
   story:
 
 - name: Steffie
-  imagePath:
+  imagePath: steffie.jpg
   tasks: Mentoring, Workshop-Planung
   interests:
   background: Grafikdesign, Kommunikationsmethoden und -techniken, Präsentation
   story:
 
 - name: Timo
-  imagePath:
+  imagePath: timo.jpg
   tasks: Mentoring
   interests: Arbeit mit Kindern, Mentoring, Erfahrungen sammeln in jeglichen Bereichen
   background: Studiert Angewandte Informatik (Bachelor)
