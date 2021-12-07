@@ -162,8 +162,8 @@
 - name: David
   imagePath: david.jpg
   tasks: Mentoring, Finanzierung, Eventmanagement
-  interests:
-  background: B.Sc. Wirtschaftsinformatik; Erfahrung als Förderlehrer; Kentnisse in Webentwicklung, Finanzen, IT-Sicherheit uvm.
+  interests: Mathematik, Physik und Programmieren lehren, Kochen, Musik
+  background: Wirtschaftsinformatik (Bachelor); Erfahrung als Förderlehrer; Webentwicklung, Finanzen, IT-Sicherheit
   story:
 
 - name: Marlón
@@ -190,8 +190,8 @@
 - name: Steffie
   imagePath: steffie.jpg
   tasks: Mentoring, Workshop-Planung
-  interests:
-  background: Grafikdesign, Kommunikationsmethoden und -techniken, Präsentation
+  interests: Ausdruckstanz, Lesen, Malen, Freunde treffen, Grafikdesign
+  background: Wirtschaftskommunikation (Master), Kommunikationsmethoden und -techniken, Präsentation
   story:
 
 - name: Timo
